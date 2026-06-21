@@ -71,8 +71,3 @@ research, or data task. No account or sign-up required.
 | [Account Prioritization](./account-prioritization/SKILL.md) | Rank companies or accounts by strategic relevance and opportunity with a clear rationale. | Priority score, tier, and next action | [Open](https://profilespider.com/resources/account-prioritization) |
 | [Research Gap Analysis](./research-gap-analysis/SKILL.md) | Identify missing information required to complete qualification, segmentation, or outreach prep. | Prioritized research gaps | [Open](https://profilespider.com/resources/research-gap-analysis) |
 | [Outreach Brief Generator](./outreach-brief-generator/SKILL.md) | Convert structured prospect research into concise outreach preparation briefs. | An outreach preparation brief | [Open](https://profilespider.com/resources/outreach-brief-generator) |
-
----
-
-_This file is generated. Do not edit by hand — update `SKILLS` in
-`www/website/scripts/generate-agent-skills.ts` and re-run the generator._
